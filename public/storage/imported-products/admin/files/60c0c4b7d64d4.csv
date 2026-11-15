@@ -1,0 +1,5 @@
+categories_slug,name,description,short_description,sku,special_price,special_price_from,special_price_to,weight,meta_title,meta_keywords,meta_description,url_key,tax_category_id,new,featured,visible_individually,status,cost,width,height,depth,type,attribute_family_name,super_attributes,super_attribute_option,super_attribute_price,inventory_sources,super_attribute_qty,super_attribute_weight,images,guest_checkout,barcode
+root,Temp1,<p>temp1</p>,<p>fvsdfgs</p>,demounique236,80,5/2/2019,5/20/2019,12,Test TitleElhami,Test Keyword,Test Description,temp23,1,1,1,1,1,10,34,34,234,configurable,HandsetsFamily,,,,default,,,banner.jpeg,1,1
+,temp33,<p>temp22</p>,<p>temfp2</p>,demounique1532,,,,13,,,,,,,,,1,,,,,variant,HandsetsFamily,"Installments,Mobile Programs","12 months,Smart1",100,default,12,10,,,1
+,sda,<p>temp212</p>,<p>sdag</p>,demounique211,,,,45,,,,,,,,,1,,,,,variant,HandsetsFamily,"Installments,Mobile Programs","24 months,Smart1",110,default,13,10,,,1
+,temp35,<p>temp212</p>,<p>teemp2</p>,demounique311,,,,15,,,,,,,,,1,,,,,variant,HandsetsFamily,"Installments,Mobile Programs","36 months,Smart1",120,default,14,10,,,1

@@ -1,0 +1,296 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('fonts/icomoon.eot?kv55ud');
+    src: url('fonts/icomoon.eot?kv55ud#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?kv55ud') format('truetype'),
+    url('fonts/icomoon.woff?kv55ud') format('woff'),
+    url('fonts/icomoon.svg?kv55ud#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-keyboard_arrow_up:before {
+    content: "\e918";
+}
+
+.icon-keyboard_arrow_right:before {
+    content: "\e919";
+}
+
+section.slider-block div.slider-content div.slider-control .light-right-icon:before {
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    content: "\e919";
+    font-size: 65px;
+}
+
+section.slider-block div.slider-content div.slider-control .dark-left-icon:before {
+    font-family: 'icomoon' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    content: "\e91a";
+    font-size: 65px;
+    color: #ffffff;
+}
+
+.icon-keyboard_arrow_left:before {
+    content: "\e91a";
+}
+
+.icon-keyboard_arrow_down:before {
+    content: "\e91b";
+}
+
+.icon-chevron-right:before {
+    content: "\e901";
+}
+
+.icon-chevron-left:before {
+    content: "\e903";
+}
+
+.icon-chevron-right1:before {
+    content: "\e904";
+}
+
+.icon-speech-bubble:before {
+    content: "\e90a";
+}
+
+.icon-snapchat:before {
+    content: "\e909";
+    color: #fffc00;
+}
+
+.icon-messenger:before {
+    content: "\e910";
+    color: #00b2ff;
+}
+
+.icon-whatsapp:before {
+    content: "\e911";
+    color: #25d366;
+}
+
+.icon-calendar:before {
+    content: "\e90c";
+}
+
+.icon-date:before {
+    content: "\e90c";
+}
+
+.icon-schedule:before {
+    content: "\e90c";
+}
+
+.icon-time:before {
+    content: "\e90e";
+}
+
+.icon-clock1:before {
+    content: "\e90e";
+}
+
+.icon-pictures:before {
+    content: "\e912";
+}
+
+.icon-images:before {
+    content: "\e912";
+}
+
+.icon-photos:before {
+    content: "\e912";
+}
+
+.icon-cancel1:before {
+    content: "\e915";
+}
+
+.icon-close1:before {
+    content: "\e915";
+}
+
+.icon-remove:before {
+    content: "\e915";
+}
+
+.icon-dismiss1:before {
+    content: "\e915";
+}
+
+.icon-chevron-thin-left:before {
+    content: "\e905";
+}
+
+.icon-chevron-thin-right:before {
+    content: "\e906";
+}
+
+.icon-search1:before {
+    content: "\e90b";
+}
+
+.icon-arrow-left:before {
+    content: "\e917";
+}
+
+.icon-clock:before {
+    content: "\e90d";
+}
+
+.icon-rewind:before {
+    content: "\e907";
+}
+
+.icon-go:before {
+    content: "\e907";
+}
+
+.icon-previous:before {
+    content: "\e907";
+}
+
+.icon-back:before {
+    content: "\e907";
+}
+
+.icon-old:before {
+    content: "\e907";
+}
+
+.icon-cancel:before {
+    content: "\e900";
+}
+
+.icon-menu-close:before {
+    content: "\e900";
+    color: #6abf4b;
+}
+.icon-menu-close {
+    margin-top: 10px;
+}
+
+.icon-close:before {
+    content: "\e900";
+}
+
+.icon-dismiss:before {
+    content: "\e900";
+}
+
+.icon-home3:before {
+    content: "\e902";
+}
+
+.icon-facebook:before {
+    /*content: "\ea90";*/
+}
+
+.icon-instagram:before {
+    /*content: "\ea92";*/
+}
+
+.icon-twitter:before {
+    /*content: "\ea96";*/
+}
+
+.icon-youtube:before {
+    content: "\ea9d";
+}
+
+.icon-clock2:before {
+    content: "\e90f";
+}
+
+.icon-time1:before {
+    content: "\e90f";
+}
+
+.icon-history:before {
+    content: "\e90f";
+}
+
+.icon-spinner:before {
+    content: "\e97a";
+}
+
+.icon-share2:before {
+    content: "\ea82";
+}
+
+.icon-whatsapp1:before {
+    content: "\ea93";
+}
+
+.icon-cancel2:before {
+    content: "\e916";
+}
+
+.icon-close2:before {
+    content: "\e916";
+}
+
+.icon-dismiss2:before {
+    content: "\e916";
+}
+
+.icon-search:before {
+    /*content: "\e986";*/
+}
+
+.icon-picture:before {
+    content: "\e913";
+}
+
+.icon-photos1:before {
+    content: "\e913";
+}
+
+.icon-images1:before {
+    content: "\e913";
+}
+
+.icon-images2:before {
+    content: "\e914";
+}
+
+.icon-arrow-left2:before {
+    content: "\ea40";
+}
+
+.icon-telegram:before {
+    content: "\ea95";
+}
+
+.icon-snapchat-ghost:before {
+    content: "\e908";
+}

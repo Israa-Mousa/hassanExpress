@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'SST Arabic Bold';
+    src: url('../new/roman/SSTArabic-Bold.eot');
+    src: url('../new/roman/SSTArabic-Bold.woff2') format('woff2'),
+    url('../new/roman/SSTArabic-Bold.woff') format('woff'),
+    url('../new/roman/SSTArabic-Bold.ttf') format('truetype'),
+    url('../new/roman/SSTArabic-Bold.svg') format('svg'),
+    url('../new/roman/SSTArabic-Bold.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SST Arabic Light';
+    src: url('../new/roman/SSTArabic-Light.eot');
+    src: url('../new/roman/SSTArabic-Light.woff2') format('woff2'),
+    url('../new/roman/SSTArabic-Light.woff') format('woff'),
+    url('../new/roman/SSTArabic-Light.ttf') format('truetype'),
+    url('../new/roman/SSTArabic-Light.svg') format('svg'),
+    url('../new/roman/SSTArabic-Light.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+}
+@font-face {
+    font-family: 'SST Arabic Medium';
+    src: url('../new/roman/SSTArabic-Medium.eot');
+    src: url('../new/roman/SSTArabic-Medium.woff2') format('woff2'),
+    url('../new/roman/SSTArabic-Medium.woff') format('woff'),
+    url('../new/roman/SSTArabic-Medium.ttf') format('truetype'),
+    url('../new/roman/SSTArabic-Medium.svg') format('svg'),
+    url('../new/roman/SSTArabic-Medium.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'SST Arabic Roman';
+    src: url('../new/roman/SSTArabic-Roman.eot');
+    src: url('../new/roman/SSTArabic-Roman.woff2') format('woff2'),
+    url('../new/roman/SSTArabic-Roman.woff') format('woff'),
+    url('../new/roman/SSTArabic-Roman.ttf') format('truetype'),
+    url('../new/roman/SSTArabic-Roman.svg') format('svg'),
+    url('../new/roman/SSTArabic-Roman.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
